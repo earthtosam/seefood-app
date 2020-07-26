@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/seefood-app/static/css/main.d3b5d80e.chunk.css",
+    "main.js": "/seefood-app/static/js/main.910b2f16.chunk.js",
+    "main.js.map": "/seefood-app/static/js/main.910b2f16.chunk.js.map",
+    "runtime-main.js": "/seefood-app/static/js/runtime-main.f134e0b1.js",
+    "runtime-main.js.map": "/seefood-app/static/js/runtime-main.f134e0b1.js.map",
+    "static/js/2.3e3988af.chunk.js": "/seefood-app/static/js/2.3e3988af.chunk.js",
+    "static/js/2.3e3988af.chunk.js.map": "/seefood-app/static/js/2.3e3988af.chunk.js.map",
+    "index.html": "/seefood-app/index.html",
+    "precache-manifest.953a620478b620b33a24551f6cdadf6a.js": "/seefood-app/precache-manifest.953a620478b620b33a24551f6cdadf6a.js",
+    "service-worker.js": "/seefood-app/service-worker.js",
+    "static/css/main.d3b5d80e.chunk.css.map": "/seefood-app/static/css/main.d3b5d80e.chunk.css.map",
+    "static/js/2.3e3988af.chunk.js.LICENSE.txt": "/seefood-app/static/js/2.3e3988af.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/seefood-app/static/media/sf_restaurants_hero_image.476ec773.png",
+    "static/media/partner_logo_1.png": "/seefood-app/static/media/partner_logo_1.b0980e78.png",
+    "static/media/partner_logo_2.png": "/seefood-app/static/media/partner_logo_2.8073b9f6.png",
+    "static/media/partner_logo_3.png": "/seefood-app/static/media/partner_logo_3.fb48f3d6.png",
+    "static/media/partner_logo_4.png": "/seefood-app/static/media/partner_logo_4.1cb881c6.png",
+    "static/media/partner_logo_5.png": "/seefood-app/static/media/partner_logo_5.23b06ea0.png",
+    "static/media/partner_logo_6.png": "/seefood-app/static/media/partner_logo_6.bdc7b29b.png",
+    "static/media/seefood_app_concept.png": "/seefood-app/static/media/seefood_app_concept.2aba0c0c.png",
+    "static/media/seefood_logo_red.png": "/seefood-app/static/media/seefood_logo_red.a1cc84ba.png",
+    "static/media/sf_bubble.png": "/seefood-app/static/media/sf_bubble.d3659aba.png",
+    "static/media/sf_partner_bubbles.png": "/seefood-app/static/media/sf_partner_bubbles.ab1b2d15.png",
+    "static/media/sf_story_image_1.png": "/seefood-app/static/media/sf_story_image_1.a9af718a.png",
+    "static/media/sf_story_image_2.png": "/seefood-app/static/media/sf_story_image_2.c04e71f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f134e0b1.js",
+    "static/js/2.3e3988af.chunk.js",
+    "static/css/main.d3b5d80e.chunk.css",
+    "static/js/main.910b2f16.chunk.js"
+  ]
+}
