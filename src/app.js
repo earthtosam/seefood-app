@@ -14,11 +14,11 @@ function App() {
             <div className="App">
                 <Nav />
                 <Switch>
-                    <Route path="/" exact component={Home} />
-                    <Route path="/home" component={Home} />
-                    <Route path="/restaurants" component={Restaurants} />
-                    <Route path="/menu" component={Menu} />
-                    <Route path="/sub-menu" component={SubMenu} />
+                    <Route path="https://earthtosam.github.io/seefood-app/" exact component={Home} />
+                    <Route path="https://earthtosam.github.io/seefood-app/home" component={Home} />
+                    <Route path="https://earthtosam.github.io/seefood-app/restaurants" component={Restaurants} />
+                    <Route path="https://earthtosam.github.io/seefood-app/menu" component={Menu} />
+                    <Route path="https://earthtosam.github.io/seefood-app/sub-menu" component={SubMenu} />
                 </Switch>
                 <Footer />
             </div>
