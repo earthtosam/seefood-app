@@ -1,8 +1,8 @@
 {
-  "homepage": "https://earthtosam.github.io/seefood-app/",
   "name": "seefood",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://earthtosam.github.io/seefood-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
