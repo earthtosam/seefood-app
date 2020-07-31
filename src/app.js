@@ -14,11 +14,11 @@ function App() {
             <div className="App">
                 <Nav />
                 <Switch>
-                    <Route path="/" exact component={Home} />
-                    <Route path="/home" component={Home} />
-                    <Route path="/restaurants" component={Restaurants} />
-                    <Route path="/menu" component={Menu} />
-                    <Route path="/sub-menu" component={SubMenu} />
+                    <Route path={process.env.PUBLIC_URL + '/'} exact component={Home} />
+                    <Route path={process.env.PUBLIC_URL + '/home'} component={Home} />
+                    <Route path={process.env.PUBLIC_URL + '/restaurants'} component={Restaurants} />
+                    <Route path={process.env.PUBLIC_URL + '/menu'} component={Menu} />
+                    <Route path={process.env.PUBLIC_URL + '/sub-menu'} component={SubMenu} />
                 </Switch>
                 <Footer />
             </div>
