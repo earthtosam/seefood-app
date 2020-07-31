@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/seefood-app/static/css/main.d3b5d80e.chunk.css",
-    "main.js": "/seefood-app/static/js/main.e0ef96e1.chunk.js",
-    "main.js.map": "/seefood-app/static/js/main.e0ef96e1.chunk.js.map",
+    "main.js": "/seefood-app/static/js/main.fa02b073.chunk.js",
+    "main.js.map": "/seefood-app/static/js/main.fa02b073.chunk.js.map",
     "runtime-main.js": "/seefood-app/static/js/runtime-main.f134e0b1.js",
     "runtime-main.js.map": "/seefood-app/static/js/runtime-main.f134e0b1.js.map",
     "static/js/2.b0ca858a.chunk.js": "/seefood-app/static/js/2.b0ca858a.chunk.js",
     "static/js/2.b0ca858a.chunk.js.map": "/seefood-app/static/js/2.b0ca858a.chunk.js.map",
     "index.html": "/seefood-app/index.html",
-    "precache-manifest.0775ea04163dfb912dae3ecd542d2f65.js": "/seefood-app/precache-manifest.0775ea04163dfb912dae3ecd542d2f65.js",
+    "precache-manifest.9e76068cefed6144a3d97b75ef2724cd.js": "/seefood-app/precache-manifest.9e76068cefed6144a3d97b75ef2724cd.js",
     "service-worker.js": "/seefood-app/service-worker.js",
     "static/css/main.d3b5d80e.chunk.css.map": "/seefood-app/static/css/main.d3b5d80e.chunk.css.map",
     "static/js/2.b0ca858a.chunk.js.LICENSE.txt": "/seefood-app/static/js/2.b0ca858a.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.f134e0b1.js",
     "static/js/2.b0ca858a.chunk.js",
     "static/css/main.d3b5d80e.chunk.css",
-    "static/js/main.e0ef96e1.chunk.js"
+    "static/js/main.fa02b073.chunk.js"
   ]
 }
