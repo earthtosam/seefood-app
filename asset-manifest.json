@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/seefood-app/static/css/main.d3b5d80e.chunk.css",
-    "main.js": "/seefood-app/static/js/main.910b2f16.chunk.js",
-    "main.js.map": "/seefood-app/static/js/main.910b2f16.chunk.js.map",
+    "main.js": "/seefood-app/static/js/main.e0ef96e1.chunk.js",
+    "main.js.map": "/seefood-app/static/js/main.e0ef96e1.chunk.js.map",
     "runtime-main.js": "/seefood-app/static/js/runtime-main.f134e0b1.js",
     "runtime-main.js.map": "/seefood-app/static/js/runtime-main.f134e0b1.js.map",
-    "static/js/2.3e3988af.chunk.js": "/seefood-app/static/js/2.3e3988af.chunk.js",
-    "static/js/2.3e3988af.chunk.js.map": "/seefood-app/static/js/2.3e3988af.chunk.js.map",
+    "static/js/2.b0ca858a.chunk.js": "/seefood-app/static/js/2.b0ca858a.chunk.js",
+    "static/js/2.b0ca858a.chunk.js.map": "/seefood-app/static/js/2.b0ca858a.chunk.js.map",
     "index.html": "/seefood-app/index.html",
-    "precache-manifest.953a620478b620b33a24551f6cdadf6a.js": "/seefood-app/precache-manifest.953a620478b620b33a24551f6cdadf6a.js",
+    "precache-manifest.0775ea04163dfb912dae3ecd542d2f65.js": "/seefood-app/precache-manifest.0775ea04163dfb912dae3ecd542d2f65.js",
     "service-worker.js": "/seefood-app/service-worker.js",
     "static/css/main.d3b5d80e.chunk.css.map": "/seefood-app/static/css/main.d3b5d80e.chunk.css.map",
-    "static/js/2.3e3988af.chunk.js.LICENSE.txt": "/seefood-app/static/js/2.3e3988af.chunk.js.LICENSE.txt",
+    "static/js/2.b0ca858a.chunk.js.LICENSE.txt": "/seefood-app/static/js/2.b0ca858a.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/seefood-app/static/media/sf_restaurants_hero_image.476ec773.png",
     "static/media/partner_logo_1.png": "/seefood-app/static/media/partner_logo_1.b0980e78.png",
     "static/media/partner_logo_2.png": "/seefood-app/static/media/partner_logo_2.8073b9f6.png",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f134e0b1.js",
-    "static/js/2.3e3988af.chunk.js",
+    "static/js/2.b0ca858a.chunk.js",
     "static/css/main.d3b5d80e.chunk.css",
-    "static/js/main.910b2f16.chunk.js"
+    "static/js/main.e0ef96e1.chunk.js"
   ]
 }
