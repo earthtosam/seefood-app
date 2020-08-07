@@ -85,7 +85,7 @@ function Home() {
                         that ended. Yelp doesn’t have full menus, sometimes has pictures but they are not always good
                         quality and aren’t labeled with dish names or organized. TripAdvisor was similar but not consistent
                     either. And so SEEFOOD was born. </p>
-                        <a href="/restaurants">Read More</a>
+                        <a href="/seefood-app/about">See Team</a>
                     </div>
                 </div>
             </section>

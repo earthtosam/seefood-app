@@ -70,10 +70,81 @@ section {
 
 /* NavBar */
 nav {
+    background-color: $sf_white !important;
+    width: 100%;
+    box-shadow: $shadow;
+    position: fixed !important;
+    z-index: 999;
+    img {
+        padding: 20px 0px;
+    }
+    .navbar-toggler {
+        background-color: $sf_white;
+        border: none;
+        box-shadow: $shadow;
+        .navbar-toggler-icon {
+            color: white;
+        }
+    }
+    .collapse {
+        .navbar-nav {
+            margin-left: 20px;
+            li {
+                margin-right: 20px;
+                a {
+                    color: $sf_black !important;
+                }
+                a:hover {
+                    color: $sf_red !important;
+                }
+            }
+        }
+        .navbar-text {
+            ul {
+                margin-top: 16px;
+                padding-left: 20px;
+                color: $sf_black !important;
+                li {
+                    display: inline-block;
+                    margin-right: 20px;
+                    .dropdown-menu {
+                        background-color: $sf_white;
+                        border: none;
+                        box-shadow: $shadow;
+                        a {
+                            text-decoration: none;
+                            background-color: $sf_white;
+                            color: $sf_red;
+                        }
+                    }
+                    a {
+                        text-decoration: none;
+                        color: $sf_red;
+                    }
+                    i {
+                        color: $sf_red;
+                        padding: 10px 12px;
+                        border-radius: 20px;
+                        box-shadow: $lightShadow, $darkShadow;
+                        transition: 0.7s ease all;
+                    }
+                    i:hover {
+                        box-shadow: inset $lightShadow, inset $darkShadow;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+/*
+nav {
     background-color: $sf_white;
     width: 100%;
     box-shadow: $shadow;
-    justify-content: space-between;
     .navbar {
         width: 90%;
         max-width: 1600px;
@@ -130,11 +201,18 @@ nav {
         }
     }
 }
+*/
+
+
+
+
+
+
 
 /* Hero Section */
 .hero {
     margin: 0;
-    padding: 0;
+    padding: 50px;
     margin-bottom: 50px;
     display: flex;
     align-items: center;
@@ -144,7 +222,7 @@ nav {
     background-position: center;
     .hero-container {
         width: 70%;
-        margin: 100px auto;
+        margin: 150px auto 100px;
         color: $sf_white;
         text-shadow: $shadow;
         text-align: center;
@@ -170,6 +248,7 @@ nav {
     background-position: center;
     .white-text-box {
         margin-left: 5%;
+        width: 50%;
     }
 }
 
@@ -183,6 +262,7 @@ nav {
     background-position: center;
     box-shadow: $shadow;
     .white-text-box {
+        width: 50%;
         .how-sub {
             display: flex;
             align-items: center;
@@ -441,23 +521,30 @@ footer {
 
 /* Restaurant Grid */
 .restaurants-grid {
-    width: 90%;
-    margin: 0px auto 70px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+    margin: 70px auto;
+    .App {
+        width: 90%;
+        margin: 0px auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
     a {
         text-decoration: none;
         color: $sf_black;
         .restaurant-box {
             width: 270px;
+            min-height: 370px;
             margin: 20px;
             padding: 20px;
             text-align: center;
             border-radius: 20px;
             box-shadow: $lightShadow, $darkShadow;
+            transition: all 0.9s ease-in;
             img {
                 width: 120px;
+                margin-bottom: 20px;
+                border-radius: 50%;
             }
             p, span {
                 color: $sf_lightBlack;
@@ -473,8 +560,51 @@ footer {
             }
         }
         .restaurant-box:hover {
-            box-shadow: none;
             box-shadow: inset $lightShadow, inset $darkShadow;
+        }
+    }
+}
+
+/*            */
+/*            */
+/* About Page */
+/*            */
+/*            */
+
+/* About Hero */
+.about-hero {
+    background-image: -webkit-linear-gradient(#0000007b, #0000007b), url("./images/section_images/sf_about_hero_image.jpg");
+}
+
+/* Team Grid */
+.team-grid {
+    margin: 70px auto;
+    .team-box {
+        width: 90%;
+        max-width: 1200px;
+        margin: 40px auto;
+        padding: 20px;
+        text-align: center;
+        border-radius: 20px;
+        box-shadow: $lightShadow, $darkShadow;
+        display: flex;
+        align-items: center;
+        transition: all 0.9s ease-in;
+        img {
+            width: 50%;
+            max-width: 200px;
+            margin-bottom: 20px;
+            border-radius: 50%;
+        }
+        p, span {
+            color: $sf_lightBlack;
+        }
+        .team-box-info {
+            padding: 50px;
+            i {
+                color: $sf_red;
+                margin: 0px 20px;
+            }
         }
     }
 }
@@ -499,7 +629,10 @@ footer {
         left: 50%;
         transform: translateX(-50%);
         img {
-            margin-top: 250px;
+            margin-top: 300px;
+            height: 200px;
+            border-radius: 50%;
+            box-shadow: $shadow;
         }
     }
 }
@@ -758,4 +891,131 @@ footer {
             }
         }
     }
+
+    /* Team Grid */
+    .team-grid {
+        margin: 70px auto;
+        .team-box {
+            width: 90%;
+            max-width: 1200px;
+            padding: 20px;
+            text-align: center;
+            border-radius: 20px;
+            box-shadow: $lightShadow, $darkShadow;
+            display: block;
+            align-items: center;
+            transition: all 0.9s ease-in;
+            img {
+                width: 50%;
+                height: auto;
+                max-width: 200px;
+                margin-bottom: 20px;
+                border-radius: 50%;
+            }
+            p, span {
+                color: $sf_lightBlack;
+            }
+            .team-box-info {
+                padding: 10px;
+            }
+        }
+        .restaurant-box:hover {
+            box-shadow: inset $lightShadow, inset $darkShadow;
+        }
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+    h1 {
+        font-size: 48px;
+    }
+    
+    h2 {
+        font-size: 36px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+    
+    p {
+        font-size: 12px;
+    }
+
+    /* Hero Section */
+    .hero {
+        .hero-container {
+            width: 90%;
+            img {
+                width: 70%;
+                margin-bottom: 30px;
+            }
+            h1 {
+                font-size: 48px;
+            }
+            p {
+                margin: -30px;
+            }
+        }
+    }
+
+    /* About Section */
+    .about {
+        .white-text-box {
+            margin-left: 5%;
+            width: 90%;
+        }
+    }
+
+    /* How Section */
+    .how {
+        .white-text-box {
+            width: 90%;
+            .how-sub {
+                display: flex;
+                align-items: center;
+                i {
+                    margin-right: 20px;
+                }
+                p {
+                    margin-top: 15px;
+                }
+            }
+        }
+    }
+
+    /* Story */
+    .story {
+        .story-container {
+            width: 100%;
+            .image-container {
+                img {
+                    height: auto;
+                }
+            }
+        }
+    }
+
+
+    /* Footer */ 
+    footer {
+        .footer-container {
+            .footer-contact {
+                ul {
+                    li {
+                        font-size: 12px;
+                    }
+                }
+            }
+            .footer-nav {
+                ul {
+                    li {
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+    }
+
 }

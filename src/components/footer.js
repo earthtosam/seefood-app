@@ -10,7 +10,7 @@ function Footer() {
                     <img src={logo} alt="" />
                     <p>SeeFood takes advantage of the newest technologies to deliver restaurant content straight to your
                 mobile cell phone.</p>
-                    <p>Copyright SeeFood 2020 All Rights Reserved</p>
+                    <p>Copyright &copy; SeeFood 2020 All Rights Reserved</p>
                 </div>
                 <div class="footer-contact col-lg-3 col-sm-6 col-12">
                     <h3>Contact</h3>
@@ -23,10 +23,9 @@ function Footer() {
                 <div class="footer-nav col-lg-3 col-sm-6 col-12">
                     <h3>Navigation</h3>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">App Store</a></li>
-                        <li><a href="#">Play Store</a></li>
+                        <li><a href="/seefood-app/home">Home</a></li>
+                        <li><a href="/seefood-app/restaurants">Restaurants</a></li>
+                        <li><a href="/seefood-app/about">About</a></li>
                     </ul>
                 </div>
             </div>
