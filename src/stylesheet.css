@@ -76,12 +76,17 @@ nav img {
 nav .navbar-toggler {
   background-color: #FAFAFA;
   border: none;
-  -webkit-box-shadow: 0px 0px 20px #0000001e;
-          box-shadow: 0px 0px 20px #0000001e;
+  -webkit-box-shadow: -5px -5px 6px #ffffff, 5px 5px 6px #00000016;
+          box-shadow: -5px -5px 6px #ffffff, 5px 5px 6px #00000016;
 }
 
 nav .navbar-toggler .navbar-toggler-icon {
   color: white;
+}
+
+nav .navbar-toggler:hover {
+  -webkit-box-shadow: inset -5px -5px 6px #ffffff, inset 5px 5px 6px #00000016;
+          box-shadow: inset -5px -5px 6px #ffffff, inset 5px 5px 6px #00000016;
 }
 
 nav .collapse .navbar-nav {
@@ -1122,15 +1127,6 @@ footer .footer-container .footer-nav ul li a {
   h1 {
     font-size: 48px;
   }
-  h2 {
-    font-size: 36px;
-  }
-  h3 {
-    font-size: 24px;
-  }
-  p {
-    font-size: 12px;
-  }
   /* Hero Section */
   .hero .hero-container {
     width: 90%;
@@ -1176,11 +1172,33 @@ footer .footer-container .footer-nav ul li a {
     height: auto;
   }
   /* Footer */
+  footer .footer-container {
+    padding: 10px;
+  }
+  footer .footer-container .footer-info {
+    margin-top: 10px;
+  }
   footer .footer-container .footer-contact ul li {
-    font-size: 12px;
+    font-size: 14px;
   }
   footer .footer-container .footer-nav ul li {
-    font-size: 12px;
+    font-size: 14px;
+  }
+  /*                  */
+  /*                  */
+  /* Restaurants Page */
+  /*                  */
+  /*                  */
+  /* Hero Section */
+  .restaurants-hero .hero-container img {
+    width: 90%;
+    margin-bottom: 0px;
+  }
+  .restaurants-hero .hero-container h1 {
+    margin: 30px;
+  }
+  .restaurants-hero .hero-container p {
+    margin: -30px;
   }
 }
 /*# sourceMappingURL=stylesheet.css.map */

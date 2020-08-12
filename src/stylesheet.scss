@@ -81,10 +81,13 @@ nav {
     .navbar-toggler {
         background-color: $sf_white;
         border: none;
-        box-shadow: $shadow;
+        box-shadow: $lightShadow, $darkShadow;
         .navbar-toggler-icon {
             color: white;
         }
+    }
+    .navbar-toggler:hover {
+        box-shadow: inset $lightShadow, inset $darkShadow;
     }
     .collapse {
         .navbar-nav {
@@ -930,18 +933,6 @@ footer {
     h1 {
         font-size: 48px;
     }
-    
-    h2 {
-        font-size: 36px;
-    }
-
-    h3 {
-        font-size: 24px;
-    }
-    
-    p {
-        font-size: 12px;
-    }
 
     /* Hero Section */
     .hero {
@@ -1001,21 +992,47 @@ footer {
     /* Footer */ 
     footer {
         .footer-container {
+            padding: 10px;
+            .footer-info {
+                margin-top: 10px;
+            }
             .footer-contact {
                 ul {
                     li {
-                        font-size: 12px;
+                        font-size: 14px;
                     }
                 }
             }
             .footer-nav {
                 ul {
                     li {
-                        font-size: 12px;
+                        font-size: 14px;
                     }
                 }
             }
         }
     }
+
+    /*                  */
+/*                  */
+/* Restaurants Page */
+/*                  */
+/*                  */
+
+/* Hero Section */
+.restaurants-hero {
+    .hero-container {
+        img {
+            width: 90%;
+            margin-bottom: 0px;
+        }
+        h1 {
+            margin: 30px;
+        }
+        p {
+            margin: -30px;
+        }
+    }
+}
 
 }

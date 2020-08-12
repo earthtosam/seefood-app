@@ -14,7 +14,7 @@ class Menu extends React.Component {
 
                 <section class="menu-hero">
                     <div class="hero-container">
-                        <img src="https://firebasestorage.googleapis.com/v0/b/seefoodapp-eb81d.appspot.com/o/restaurants%2FgmsvxfhzpZpR4DqRov80%2Flogo%2FVilla%20Azteca%20Logo.png?alt=media&token=cb6953b1-ca69-4676-80e9-ff0eb8e9f665" alt="" />
+                        <img src={this.props.location.state.logo_url} alt="" />
                     </div>
                 </section>
 

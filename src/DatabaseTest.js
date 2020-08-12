@@ -1,5 +1,5 @@
 import React from 'react';
-import { db } from './firebase.js';
+import { db, storageRef } from './firebase.js';
 
 function databaseTest() {
     /*Firebase test block - START*/
@@ -10,8 +10,8 @@ function databaseTest() {
         .then(querySnapshot => {
             const data = querySnapshot.docs.map(doc => doc.data());
             const dataID = querySnapshot.docs.map(doc => doc.id);
-            console.log(data);
-            console.log(dataID); //STORE DOCUMENT ID's
+            //console.log(data);
+            //console.log(dataID); //STORE DOCUMENT ID's
         })
     /*END OF EXMAPLE ONE*/
 
@@ -21,7 +21,7 @@ function databaseTest() {
     db.collection("restaurants").doc("9khcg5d96JQOdj06Vm4v").collection("categories").get()
         .then(response => {
             response.forEach(document => {
-                console.log(document.data());
+                //console.log(document.data());
             })
         })
     /*END OF EXMAPLE TWO*/
@@ -31,7 +31,7 @@ function databaseTest() {
     db.collection("restaurants").where("city", "==", "Salinas").get()
         .then(function (querySnapshot) {
             querySnapshot.forEach(function (doc) {
-                console.log(doc.id, "==>", doc.data());
+                //console.log(doc.id, "==>", doc.data());
             })
         })
     /*END OF EXAMPLE THREE*/

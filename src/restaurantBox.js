@@ -1,13 +1,11 @@
 import React from "react";
 import './stylesheet.css';
 import PartnerLogo1 from './images/section_images/partner_logo_1.png';
-import { db, auth } from './firebase';
+import { db, auth, storageRef } from './firebase';
 import { Link } from 'react-router-dom';
 
-
-
-
 class Restaurants extends React.Component {
+
     state = {
         restaurants: null,
     }
@@ -40,7 +38,7 @@ class Restaurants extends React.Component {
                         return (
                             <a>
                                 <Link to={{
-                                    pathname: `/seefood-app/restaurants/${restaurant.id}`,
+                                    pathname: `/restaurants/${restaurant.id}`,
                                     state: {
                                         name: `${restaurant.name}`,
                                         city: `${restaurant.city}`,
@@ -50,10 +48,11 @@ class Restaurants extends React.Component {
                                         zip: `${restaurant.zip}`,
                                         phone: `${restaurant.phone}`,
                                         id: `${restaurant.id}`,
+                                        logo_url: `${restaurant.logo_url}`
                                     }
                                 }}>
                                     <div class="restaurant-box">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/seefoodapp-eb81d.appspot.com/o/restaurants%2FgmsvxfhzpZpR4DqRov80%2Flogo%2FVilla%20Azteca%20Logo.png?alt=media&token=cb6953b1-ca69-4676-80e9-ff0eb8e9f665" alt="" />
+                                        <img src={restaurant.logo_url} alt="" />
                                         <h3>{restaurant.name}</h3>
                                         <p>{restaurant.cuisine}</p>
                                         <p>SeeFood is a mobile website that helps you see pictures
@@ -67,6 +66,18 @@ class Restaurants extends React.Component {
                 }
             </div >
         )
+    }
+
+    async loadRestaurantLogo(restaurant_id, restaurant_name) {
+        storageRef.child('/restaurants/' + restaurant_id + '/logo/' + restaurant_name + ' Logo.png').getDownloadURL().then(function (url) {
+            var img = document.getElementById(restaurant_name + '.png');
+            var returnVal = url;
+            //console.log(restaurant_name + " -> " + returnVal);
+            return returnVal;
+        }).catch(function (error) {
+            //console.log(error)
+            //console.log("Broken ---->" + restaurant_id + " -------> " + restaurant_name)
+        });
     }
 
 
