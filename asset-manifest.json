@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/seefood-app/static/css/main.35239658.chunk.css",
-    "main.js": "/seefood-app/static/js/main.6e8d0bd9.chunk.js",
-    "main.js.map": "/seefood-app/static/js/main.6e8d0bd9.chunk.js.map",
+    "main.css": "/seefood-app/static/css/main.40f6ab2f.chunk.css",
+    "main.js": "/seefood-app/static/js/main.4a546095.chunk.js",
+    "main.js.map": "/seefood-app/static/js/main.4a546095.chunk.js.map",
     "runtime-main.js": "/seefood-app/static/js/runtime-main.f134e0b1.js",
     "runtime-main.js.map": "/seefood-app/static/js/runtime-main.f134e0b1.js.map",
-    "static/js/2.0f09ecef.chunk.js": "/seefood-app/static/js/2.0f09ecef.chunk.js",
-    "static/js/2.0f09ecef.chunk.js.map": "/seefood-app/static/js/2.0f09ecef.chunk.js.map",
+    "static/js/2.e1c0f621.chunk.js": "/seefood-app/static/js/2.e1c0f621.chunk.js",
+    "static/js/2.e1c0f621.chunk.js.map": "/seefood-app/static/js/2.e1c0f621.chunk.js.map",
     "index.html": "/seefood-app/index.html",
-    "precache-manifest.1321e46e3e31dd4f63916737b5b5f418.js": "/seefood-app/precache-manifest.1321e46e3e31dd4f63916737b5b5f418.js",
+    "precache-manifest.62c379169e4ae90087339b1e10e47610.js": "/seefood-app/precache-manifest.62c379169e4ae90087339b1e10e47610.js",
     "service-worker.js": "/seefood-app/service-worker.js",
-    "static/css/main.35239658.chunk.css.map": "/seefood-app/static/css/main.35239658.chunk.css.map",
-    "static/js/2.0f09ecef.chunk.js.LICENSE.txt": "/seefood-app/static/js/2.0f09ecef.chunk.js.LICENSE.txt",
+    "static/css/main.40f6ab2f.chunk.css.map": "/seefood-app/static/css/main.40f6ab2f.chunk.css.map",
+    "static/js/2.e1c0f621.chunk.js.LICENSE.txt": "/seefood-app/static/js/2.e1c0f621.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/seefood-app/static/media/sf_restaurants_hero_image.476ec773.png",
     "static/media/empty.png": "/seefood-app/static/media/empty.6b7832d1.png",
     "static/media/frank.png": "/seefood-app/static/media/frank.5512e71c.png",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f134e0b1.js",
-    "static/js/2.0f09ecef.chunk.js",
-    "static/css/main.35239658.chunk.css",
-    "static/js/main.6e8d0bd9.chunk.js"
+    "static/js/2.e1c0f621.chunk.js",
+    "static/css/main.40f6ab2f.chunk.css",
+    "static/js/main.4a546095.chunk.js"
   ]
 }
