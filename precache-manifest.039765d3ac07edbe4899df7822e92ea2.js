@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42eab7ba67c6c02bde4a20c486e7a9c8",
+    "revision": "6cb9d63430ee567eac2b1cb0589c8687",
     "url": "/seefood-app/index.html"
   },
   {
-    "revision": "f80cf8f4b244e952a7b8",
-    "url": "/seefood-app/static/css/main.40f6ab2f.chunk.css"
+    "revision": "7827e9323b3d39a0c340",
+    "url": "/seefood-app/static/css/main.3be30718.chunk.css"
   },
   {
     "revision": "54a54c117e9f216ea01c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seefood-app/static/js/2.e1c0f621.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f80cf8f4b244e952a7b8",
-    "url": "/seefood-app/static/js/main.4a546095.chunk.js"
+    "revision": "7827e9323b3d39a0c340",
+    "url": "/seefood-app/static/js/main.f34e6134.chunk.js"
   },
   {
     "revision": "42b35cc91b23f0d3c62d",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seefood-app/static/media/satvik.427ac141.png"
   },
   {
-    "revision": "2aba0c0c31ea640c876ba6c02d88a0ef",
-    "url": "/seefood-app/static/media/seefood_app_concept.2aba0c0c.png"
+    "revision": "0fe6ecc2d978639f8cf088aa136ef6bb",
+    "url": "/seefood-app/static/media/seefood_app_concept.0fe6ecc2.png"
   },
   {
     "revision": "a1cc84ba5b6e6be595d8393a6b18d861",
