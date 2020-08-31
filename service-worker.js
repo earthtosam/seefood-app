@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/seefood-app/precache-manifest.039765d3ac07edbe4899df7822e92ea2.js"
+  "/seefood-app/precache-manifest.9652ceae4e8c861224d9ed76c42d397f.js"
 );
 
 self.addEventListener('message', (event) => {
