@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1245c331052e0ba75f561c653914497b",
+    "revision": "5ca7547cf7b67bbc02ee4fbf6c655802",
     "url": "/seefood-app/index.html"
   },
   {
-    "revision": "1fbfdb0780327846a5a9",
-    "url": "/seefood-app/static/css/main.4f8a2dfc.chunk.css"
+    "revision": "2eafa4f26a941a1db547",
+    "url": "/seefood-app/static/css/main.a28395e5.chunk.css"
   },
   {
     "revision": "4fc0df8d6e5dd860c5fa",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seefood-app/static/js/2.9295d486.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fbfdb0780327846a5a9",
-    "url": "/seefood-app/static/js/main.abb31111.chunk.js"
+    "revision": "2eafa4f26a941a1db547",
+    "url": "/seefood-app/static/js/main.fa9b40e7.chunk.js"
   },
   {
     "revision": "42b35cc91b23f0d3c62d",
