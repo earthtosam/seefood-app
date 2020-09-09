@@ -41,7 +41,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "08762d23b23bfcf32b67d94c09d25099",
-    "url": "/static/media/gurpreet.08762d23.png"
+    "url": "/seefood-app/static/media/gurpreet.08762d23.png"
   },
   {
     "revision": "c0c89e3e37a7150020b26dbf4a646c13",
