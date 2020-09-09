@@ -21,7 +21,7 @@
     "static/media/kyle.png": "/seefood-app/static/media/kyle.7e5058a1.png",
     "static/media/luis.png": "/seefood-app/static/media/luis.6119607d.png",
     "static/media/partner_logo_1.png": "/seefood-app/static/media/partner_logo_1.b0980e78.png",
-    "static/media/robert.png": "/seefood-app/static/media/robert.e8356a35.png",
+    "static/media/robert.png": "../static/media/robert.e8356a35.png",
     "static/media/satvik.png": "/seefood-app/static/media/satvik.427ac141.png",
     "static/media/seefood_app_concept.png": "/seefood-app/static/media/seefood_app_concept.0fe6ecc2.png",
     "static/media/seefood_logo_red.png": "/seefood-app/static/media/seefood_logo_red.a1cc84ba.png",
