@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1ed98d88.chunk.css",
-    "main.js": "/static/js/main.930f69b4.chunk.js",
-    "main.js.map": "/static/js/main.930f69b4.chunk.js.map",
+    "main.js": "/static/js/main.457436ba.chunk.js",
+    "main.js.map": "/static/js/main.457436ba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
-    "static/js/2.b19dd10a.chunk.js": "/static/js/2.b19dd10a.chunk.js",
-    "static/js/2.b19dd10a.chunk.js.map": "/static/js/2.b19dd10a.chunk.js.map",
+    "static/js/2.fefe311e.chunk.js": "/static/js/2.fefe311e.chunk.js",
+    "static/js/2.fefe311e.chunk.js.map": "/static/js/2.fefe311e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b099138cea9741e97e8d958ee675842a.js": "/precache-manifest.b099138cea9741e97e8d958ee675842a.js",
+    "precache-manifest.08d58dbbdf7506386319d9bb90a3b931.js": "/precache-manifest.08d58dbbdf7506386319d9bb90a3b931.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1ed98d88.chunk.css.map": "/static/css/main.1ed98d88.chunk.css.map",
-    "static/js/2.b19dd10a.chunk.js.LICENSE.txt": "/static/js/2.b19dd10a.chunk.js.LICENSE.txt",
+    "static/js/2.fefe311e.chunk.js.LICENSE.txt": "/static/js/2.fefe311e.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.bac22683.png",
     "static/media/empty.png": "/static/media/empty.6b7832d1.png",
     "static/media/frank.png": "/static/media/frank.5512e71c.png",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
-    "static/js/2.b19dd10a.chunk.js",
+    "static/js/2.fefe311e.chunk.js",
     "static/css/main.1ed98d88.chunk.css",
-    "static/js/main.930f69b4.chunk.js"
+    "static/js/main.457436ba.chunk.js"
   ]
 }
