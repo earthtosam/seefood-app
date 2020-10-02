@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce189fea.chunk.css",
-    "main.js": "/static/js/main.910bfbfa.chunk.js",
-    "main.js.map": "/static/js/main.910bfbfa.chunk.js.map",
+    "main.css": "/static/css/main.566c85d4.chunk.css",
+    "main.js": "/static/js/main.c6f8a42c.chunk.js",
+    "main.js.map": "/static/js/main.c6f8a42c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
-    "static/js/2.37292553.chunk.js": "/static/js/2.37292553.chunk.js",
-    "static/js/2.37292553.chunk.js.map": "/static/js/2.37292553.chunk.js.map",
+    "static/js/2.0532f7cb.chunk.js": "/static/js/2.0532f7cb.chunk.js",
+    "static/js/2.0532f7cb.chunk.js.map": "/static/js/2.0532f7cb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ed5d21579a6de721bb26a82d2ac84bbd.js": "/precache-manifest.ed5d21579a6de721bb26a82d2ac84bbd.js",
+    "precache-manifest.ddec89014a22cd0e98708be70ff31864.js": "/precache-manifest.ddec89014a22cd0e98708be70ff31864.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ce189fea.chunk.css.map": "/static/css/main.ce189fea.chunk.css.map",
-    "static/js/2.37292553.chunk.js.LICENSE.txt": "/static/js/2.37292553.chunk.js.LICENSE.txt",
+    "static/css/main.566c85d4.chunk.css.map": "/static/css/main.566c85d4.chunk.css.map",
+    "static/js/2.0532f7cb.chunk.js.LICENSE.txt": "/static/js/2.0532f7cb.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.bac22683.png",
     "static/media/101 Wine Press Logo.png": "/static/media/101 Wine Press Logo.0a520449.png",
     "static/media/Culturas Hidalgo y Oaxaca Restaurant logo.jpg": "/static/media/Culturas Hidalgo y Oaxaca Restaurant logo.ef55405d.jpg",
@@ -22,6 +22,8 @@
     "static/media/Mia Fusion Cuisine logo.png": "/static/media/Mia Fusion Cuisine logo.9c27e0e4.png",
     "static/media/about_img.png": "/static/media/about_img.a06702d9.png",
     "static/media/carlos.png": "/static/media/carlos.d3469f06.png",
+    "static/media/carousel_bg_1.png": "/static/media/carousel_bg_1.9bcb9f0f.png",
+    "static/media/carousel_bg_2.png": "/static/media/carousel_bg_2.e1c97b5b.png",
     "static/media/elbert.png": "/static/media/elbert.41ad1c63.png",
     "static/media/elkiosko logo.png": "/static/media/elkiosko logo.46a6a22c.png",
     "static/media/frank.png": "/static/media/frank.5512e71c.png",
@@ -43,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
-    "static/js/2.37292553.chunk.js",
-    "static/css/main.ce189fea.chunk.css",
-    "static/js/main.910bfbfa.chunk.js"
+    "static/js/2.0532f7cb.chunk.js",
+    "static/css/main.566c85d4.chunk.css",
+    "static/js/main.c6f8a42c.chunk.js"
   ]
 }
