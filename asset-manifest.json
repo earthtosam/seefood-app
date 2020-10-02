@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.566c85d4.chunk.css",
-    "main.js": "/static/js/main.c6f8a42c.chunk.js",
-    "main.js.map": "/static/js/main.c6f8a42c.chunk.js.map",
+    "main.css": "/static/css/main.4ccdb1a4.chunk.css",
+    "main.js": "/static/js/main.286a3625.chunk.js",
+    "main.js.map": "/static/js/main.286a3625.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
-    "static/js/2.0532f7cb.chunk.js": "/static/js/2.0532f7cb.chunk.js",
-    "static/js/2.0532f7cb.chunk.js.map": "/static/js/2.0532f7cb.chunk.js.map",
+    "static/js/2.40cee483.chunk.js": "/static/js/2.40cee483.chunk.js",
+    "static/js/2.40cee483.chunk.js.map": "/static/js/2.40cee483.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ddec89014a22cd0e98708be70ff31864.js": "/precache-manifest.ddec89014a22cd0e98708be70ff31864.js",
+    "precache-manifest.d565254be782c94f687d18602aa8cc55.js": "/precache-manifest.d565254be782c94f687d18602aa8cc55.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.566c85d4.chunk.css.map": "/static/css/main.566c85d4.chunk.css.map",
-    "static/js/2.0532f7cb.chunk.js.LICENSE.txt": "/static/js/2.0532f7cb.chunk.js.LICENSE.txt",
+    "static/css/main.4ccdb1a4.chunk.css.map": "/static/css/main.4ccdb1a4.chunk.css.map",
+    "static/js/2.40cee483.chunk.js.LICENSE.txt": "/static/js/2.40cee483.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.bac22683.png",
     "static/media/101 Wine Press Logo.png": "/static/media/101 Wine Press Logo.0a520449.png",
     "static/media/Culturas Hidalgo y Oaxaca Restaurant logo.jpg": "/static/media/Culturas Hidalgo y Oaxaca Restaurant logo.ef55405d.jpg",
@@ -38,15 +38,17 @@
     "static/media/luis.png": "/static/media/luis.6119607d.png",
     "static/media/robert.png": "/static/media/robert.e8356a35.png",
     "static/media/samuel.png": "/static/media/samuel.1c08c9b8.png",
+    "static/media/satvik.png": "/static/media/satvik.427ac141.png",
     "static/media/seefood_logo_white.png": "/static/media/seefood_logo_white.3cf43726.png",
     "static/media/sf_partner_bubbles.png": "/static/media/sf_partner_bubbles.0d4a9c76.png",
     "static/media/sf_story_image_1.png": "/static/media/sf_story_image_1.a9af718a.png",
-    "static/media/sf_story_image_2.png": "/static/media/sf_story_image_2.c04e71f8.png"
+    "static/media/sf_story_image_2.png": "/static/media/sf_story_image_2.c04e71f8.png",
+    "static/media/vaibhav.png": "/static/media/vaibhav.24e7a3f9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
-    "static/js/2.0532f7cb.chunk.js",
-    "static/css/main.566c85d4.chunk.css",
-    "static/js/main.c6f8a42c.chunk.js"
+    "static/js/2.40cee483.chunk.js",
+    "static/css/main.4ccdb1a4.chunk.css",
+    "static/js/main.286a3625.chunk.js"
   ]
 }
