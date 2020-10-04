@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.595039a3.chunk.css",
-    "main.js": "/static/js/main.76867689.chunk.js",
-    "main.js.map": "/static/js/main.76867689.chunk.js.map",
+    "main.css": "/static/css/main.3e7d0dc7.chunk.css",
+    "main.js": "/static/js/main.8ab0cf89.chunk.js",
+    "main.js.map": "/static/js/main.8ab0cf89.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
-    "static/js/2.40cee483.chunk.js": "/static/js/2.40cee483.chunk.js",
-    "static/js/2.40cee483.chunk.js.map": "/static/js/2.40cee483.chunk.js.map",
+    "static/js/2.12ec7984.chunk.js": "/static/js/2.12ec7984.chunk.js",
+    "static/js/2.12ec7984.chunk.js.map": "/static/js/2.12ec7984.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1c37cf3d3a8ba4105bebbcdf8a90ae3c.js": "/precache-manifest.1c37cf3d3a8ba4105bebbcdf8a90ae3c.js",
+    "precache-manifest.57accdb174c9f9937f598bc401574b19.js": "/precache-manifest.57accdb174c9f9937f598bc401574b19.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.595039a3.chunk.css.map": "/static/css/main.595039a3.chunk.css.map",
-    "static/js/2.40cee483.chunk.js.LICENSE.txt": "/static/js/2.40cee483.chunk.js.LICENSE.txt",
+    "static/css/main.3e7d0dc7.chunk.css.map": "/static/css/main.3e7d0dc7.chunk.css.map",
+    "static/js/2.12ec7984.chunk.js.LICENSE.txt": "/static/js/2.12ec7984.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.bac22683.png",
     "static/media/101 Wine Press Logo.png": "/static/media/101 Wine Press Logo.0a520449.png",
     "static/media/Culturas Hidalgo y Oaxaca Restaurant logo.jpg": "/static/media/Culturas Hidalgo y Oaxaca Restaurant logo.ef55405d.jpg",
+    "static/media/Evas Cantina & Grill logo.jpg": "/static/media/Evas Cantina & Grill logo.bec5bee2.jpg",
     "static/media/Flying Artichoke Restaurant LOGO.jpg": "/static/media/Flying Artichoke Restaurant LOGO.f744eb9a.jpg",
     "static/media/Googie Grill Logo.png": "/static/media/Googie Grill Logo.a03382d4.png",
     "static/media/Islas Marietas Logo.png": "/static/media/Islas Marietas Logo.e829d8b3.png",
@@ -47,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
-    "static/js/2.40cee483.chunk.js",
-    "static/css/main.595039a3.chunk.css",
-    "static/js/main.76867689.chunk.js"
+    "static/js/2.12ec7984.chunk.js",
+    "static/css/main.3e7d0dc7.chunk.css",
+    "static/js/main.8ab0cf89.chunk.js"
   ]
 }
