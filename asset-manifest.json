@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.a4dbb441.chunk.css",
-    "main.js": "/static/js/main.4b594556.chunk.js",
-    "main.js.map": "/static/js/main.4b594556.chunk.js.map",
+    "main.js": "/static/js/main.c1a1a5b5.chunk.js",
+    "main.js.map": "/static/js/main.c1a1a5b5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
-    "static/js/2.71ba25c6.chunk.js": "/static/js/2.71ba25c6.chunk.js",
-    "static/js/2.71ba25c6.chunk.js.map": "/static/js/2.71ba25c6.chunk.js.map",
+    "static/js/2.5fa730e0.chunk.js": "/static/js/2.5fa730e0.chunk.js",
+    "static/js/2.5fa730e0.chunk.js.map": "/static/js/2.5fa730e0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ab31f19d11a7f76f7bca424e0e35e4ad.js": "/precache-manifest.ab31f19d11a7f76f7bca424e0e35e4ad.js",
+    "precache-manifest.80d18b9b05850a92322fea3d62784b53.js": "/precache-manifest.80d18b9b05850a92322fea3d62784b53.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a4dbb441.chunk.css.map": "/static/css/main.a4dbb441.chunk.css.map",
-    "static/js/2.71ba25c6.chunk.js.LICENSE.txt": "/static/js/2.71ba25c6.chunk.js.LICENSE.txt",
+    "static/js/2.5fa730e0.chunk.js.LICENSE.txt": "/static/js/2.5fa730e0.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.bac22683.png",
     "static/media/101 Wine Press Logo.png": "/static/media/101 Wine Press Logo.0a520449.png",
     "static/media/Culturas Hidalgo y Oaxaca Restaurant logo.jpg": "/static/media/Culturas Hidalgo y Oaxaca Restaurant logo.ef55405d.jpg",
@@ -48,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
-    "static/js/2.71ba25c6.chunk.js",
+    "static/js/2.5fa730e0.chunk.js",
     "static/css/main.a4dbb441.chunk.css",
-    "static/js/main.4b594556.chunk.js"
+    "static/js/main.c1a1a5b5.chunk.js"
   ]
 }
