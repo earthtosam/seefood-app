@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f5efdde.chunk.css",
-    "main.js": "/static/js/main.88380fb8.chunk.js",
-    "main.js.map": "/static/js/main.88380fb8.chunk.js.map",
+    "main.css": "/static/css/main.a75cc072.chunk.css",
+    "main.js": "/static/js/main.cb314ba2.chunk.js",
+    "main.js.map": "/static/js/main.cb314ba2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
-    "static/js/2.51457940.chunk.js": "/static/js/2.51457940.chunk.js",
-    "static/js/2.51457940.chunk.js.map": "/static/js/2.51457940.chunk.js.map",
+    "static/js/2.26750c7a.chunk.js": "/static/js/2.26750c7a.chunk.js",
+    "static/js/2.26750c7a.chunk.js.map": "/static/js/2.26750c7a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5b82ad34a733d03fe368c67dde5c2bb6.js": "/precache-manifest.5b82ad34a733d03fe368c67dde5c2bb6.js",
+    "precache-manifest.fa287d0d6faeb431cca74adc49b9fb93.js": "/precache-manifest.fa287d0d6faeb431cca74adc49b9fb93.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5f5efdde.chunk.css.map": "/static/css/main.5f5efdde.chunk.css.map",
-    "static/js/2.51457940.chunk.js.LICENSE.txt": "/static/js/2.51457940.chunk.js.LICENSE.txt",
+    "static/css/main.a75cc072.chunk.css.map": "/static/css/main.a75cc072.chunk.css.map",
+    "static/js/2.26750c7a.chunk.js.LICENSE.txt": "/static/js/2.26750c7a.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.bac22683.png",
     "static/media/101 Wine Press Logo.png": "/static/media/101 Wine Press Logo.0a520449.png",
     "static/media/Culturas Hidalgo y Oaxaca Restaurant logo.jpg": "/static/media/Culturas Hidalgo y Oaxaca Restaurant logo.ef55405d.jpg",
+    "static/media/Download-on-the-App-Store-button.png": "/static/media/Download-on-the-App-Store-button.bad39c4f.png",
     "static/media/Evas Cantina & Grill logo.jpg": "/static/media/Evas Cantina & Grill logo.bec5bee2.jpg",
     "static/media/Flying Artichoke Restaurant LOGO.jpg": "/static/media/Flying Artichoke Restaurant LOGO.f744eb9a.jpg",
     "static/media/Googie Grill Logo.png": "/static/media/Googie Grill Logo.a03382d4.png",
@@ -48,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
-    "static/js/2.51457940.chunk.js",
-    "static/css/main.5f5efdde.chunk.css",
-    "static/js/main.88380fb8.chunk.js"
+    "static/js/2.26750c7a.chunk.js",
+    "static/css/main.a75cc072.chunk.css",
+    "static/js/main.cb314ba2.chunk.js"
   ]
 }
