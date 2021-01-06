@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5761f8a5.chunk.css",
-    "main.js": "/static/js/main.60ad92f5.chunk.js",
-    "main.js.map": "/static/js/main.60ad92f5.chunk.js.map",
+    "main.css": "/static/css/main.b960c7b3.chunk.css",
+    "main.js": "/static/js/main.a355759c.chunk.js",
+    "main.js.map": "/static/js/main.a355759c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
-    "static/js/2.dd879efa.chunk.js": "/static/js/2.dd879efa.chunk.js",
-    "static/js/2.dd879efa.chunk.js.map": "/static/js/2.dd879efa.chunk.js.map",
+    "static/js/2.30ee02da.chunk.js": "/static/js/2.30ee02da.chunk.js",
+    "static/js/2.30ee02da.chunk.js.map": "/static/js/2.30ee02da.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.097c7846d8a50619227e5b8982eca5b0.js": "/precache-manifest.097c7846d8a50619227e5b8982eca5b0.js",
+    "precache-manifest.afcacfd201bb91c708389995e17df245.js": "/precache-manifest.afcacfd201bb91c708389995e17df245.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5761f8a5.chunk.css.map": "/static/css/main.5761f8a5.chunk.css.map",
-    "static/js/2.dd879efa.chunk.js.LICENSE.txt": "/static/js/2.dd879efa.chunk.js.LICENSE.txt",
+    "static/css/main.b960c7b3.chunk.css.map": "/static/css/main.b960c7b3.chunk.css.map",
+    "static/js/2.30ee02da.chunk.js.LICENSE.txt": "/static/js/2.30ee02da.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.74ff65c6.png",
     "static/media/101 Wine Press Logo.png": "/static/media/101 Wine Press Logo.cb42951b.png",
     "static/media/Culturas Hidalgo y Oaxaca Restaurant logo.jpg": "/static/media/Culturas Hidalgo y Oaxaca Restaurant logo.f488c4e2.jpg",
@@ -37,6 +37,7 @@
     "static/media/luis.png": "/static/media/luis.6119607d.png",
     "static/media/robert.png": "/static/media/robert.e8356a35.png",
     "static/media/satvik.png": "/static/media/satvik.427ac141.png",
+    "static/media/seefood_404.png": "/static/media/seefood_404.4f74333c.png",
     "static/media/sf_partner_bubbles.png": "/static/media/sf_partner_bubbles.0d4a9c76.png",
     "static/media/sf_story_image_1.png": "/static/media/sf_story_image_1.458e2c03.png",
     "static/media/sf_story_image_2.png": "/static/media/sf_story_image_2.a46855cd.png",
@@ -44,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
-    "static/js/2.dd879efa.chunk.js",
-    "static/css/main.5761f8a5.chunk.css",
-    "static/js/main.60ad92f5.chunk.js"
+    "static/js/2.30ee02da.chunk.js",
+    "static/css/main.b960c7b3.chunk.css",
+    "static/js/main.a355759c.chunk.js"
   ]
 }
