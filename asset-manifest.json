@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd5929a3.chunk.css",
-    "main.js": "/static/js/main.c3ee1eed.chunk.js",
-    "main.js.map": "/static/js/main.c3ee1eed.chunk.js.map",
+    "main.css": "/static/css/main.3d3a018a.chunk.css",
+    "main.js": "/static/js/main.ad4113c7.chunk.js",
+    "main.js.map": "/static/js/main.ad4113c7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a5a7fe6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a5a7fe6.js.map",
     "static/js/2.39fc3b1f.chunk.js": "/static/js/2.39fc3b1f.chunk.js",
     "static/js/2.39fc3b1f.chunk.js.map": "/static/js/2.39fc3b1f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b59bd975a1b1e3467ce20e5332f7f76d.js": "/precache-manifest.b59bd975a1b1e3467ce20e5332f7f76d.js",
+    "precache-manifest.c5a49aa2409a781a8464706af7a6a6f8.js": "/precache-manifest.c5a49aa2409a781a8464706af7a6a6f8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.cd5929a3.chunk.css.map": "/static/css/main.cd5929a3.chunk.css.map",
+    "static/css/main.3d3a018a.chunk.css.map": "/static/css/main.3d3a018a.chunk.css.map",
     "static/js/2.39fc3b1f.chunk.js.LICENSE.txt": "/static/js/2.39fc3b1f.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/static/media/sf_restaurants_hero_image.bac22683.png",
     "static/media/101 Wine Press Logo.png": "/static/media/101 Wine Press Logo.0a520449.png",
@@ -50,7 +50,7 @@
   "entrypoints": [
     "static/js/runtime-main.8a5a7fe6.js",
     "static/js/2.39fc3b1f.chunk.js",
-    "static/css/main.cd5929a3.chunk.css",
-    "static/js/main.c3ee1eed.chunk.js"
+    "static/css/main.3d3a018a.chunk.css",
+    "static/js/main.ad4113c7.chunk.js"
   ]
 }

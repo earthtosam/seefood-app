@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "327855903a09c7ca72cf700036521ac9",
+    "revision": "1b49f0e6f8316d0db8cbf340441bdf85",
     "url": "/index.html"
   },
   {
-    "revision": "291d824a1f948bfd15fc",
-    "url": "/static/css/main.cd5929a3.chunk.css"
+    "revision": "0d8ac08edd9807709c1d",
+    "url": "/static/css/main.3d3a018a.chunk.css"
   },
   {
     "revision": "64a218e86d50f0d5abaf",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.39fc3b1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "291d824a1f948bfd15fc",
-    "url": "/static/js/main.c3ee1eed.chunk.js"
+    "revision": "0d8ac08edd9807709c1d",
+    "url": "/static/js/main.ad4113c7.chunk.js"
   },
   {
     "revision": "24aac1ee55b5bd6c7256",
@@ -124,16 +124,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/elkiosko logo.46a6a22c.png"
   },
   {
-    "revision": "39ec5de4ad5276af8514fb2da5d26206",
-    "url": "/static/media/empty_logo.39ec5de4.png"
+    "revision": "ff5393f898024b0a61967e505fa1bdbd",
+    "url": "/static/media/empty_menuitem.ff5393f8.png"
   },
   {
-    "revision": "ff3816c34bb7dfd57eee5d89066fbaa6",
-    "url": "/static/media/empty_menuitem.ff3816c3.png"
-  },
-  {
-    "revision": "61c29ad9e8c45a1609724b879371584b",
-    "url": "/static/media/empty_storefront.61c29ad9.png"
+    "revision": "48f0602956757458bcf504301db96a41",
+    "url": "/static/media/empty_storefront.48f06029.png"
   },
   {
     "revision": "5512e71cc40af8264eae9a11f3941594",
